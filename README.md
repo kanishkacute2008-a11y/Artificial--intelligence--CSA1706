@@ -1,6 +1,7 @@
 # Artificial--intelligence--CSA1706
 ## About This Repository
 This repository contains Python programs for Artificial Intelligence algorithms.
+
 Algorithms Included
 1. A* Search Algorithm
 2. Alpha-Beta Pruning
